@@ -6,6 +6,6 @@ Mining engineer and independent researcher. I write small tools for Pashto and D
 
 - On the Common Voice Spontaneous Speech Pashto test split (133 clips, 101 minutes), the default model scores 70.2% WER and 58.2% CER. That is not good enough for unsupervised use, and the README says so.
 - The quality screen is useful for triage: drafts it passes have 25% CER, drafts it flags have 63%.
-- Work in progress: comparing other open Pashto models on the same clips, then Dari.
+- Comparing four open Pashto models on the same clips, the best (w2v-BERT 2) reaches 49.2% WER and 31.1% CER. Work in progress: making the quality screen useful beyond one model, then Dari.
 
 Issues and corrections are welcome.
