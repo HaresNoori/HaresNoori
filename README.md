@@ -1,18 +1,11 @@
 ### Hares Noori
 
-I build small, auditable tools for languages and data that mainstream software under-serves.
+Mining engineer and independent researcher. I write small tools for Pashto and Dari speech, and I care about being able to trace every output back to its input.
 
-**What I work on**
+**[`pashto-local-asr`](https://github.com/HaresNoori/pashto-local-asr)** transcribes Pashto audio offline on a laptop CPU, hashes each input, pins the model revision, and flags drafts that look unreliable.
 
-- **Offline speech technology for Pashto and Dari.** Tools that run on an ordinary laptop, keep audio off the cloud, and say plainly how reliable each output is.
-- **Provenance and evidence discipline.** I come from geoscience and exploration data work, where every number has to trace back to a source. I bring the same habit to machine learning outputs: pinned models, hashed inputs, published benchmarks, honest limitations.
+- On the Common Voice Spontaneous Speech Pashto test split (133 clips, 101 minutes), the default model scores 70.2% WER and 58.2% CER. That is not good enough for unsupervised use, and the README says so.
+- The quality screen is useful for triage: drafts it passes have 25% CER, drafts it flags have 63%.
+- Work in progress: comparing other open Pashto models on the same clips, then Dari.
 
-**Projects**
-
-- [`pashto-local-asr`](https://github.com/HaresNoori/pashto-local-asr): offline Pashto speech-to-text drafts with provenance on every output and a built-in quality screen. Benchmarked on Mozilla Common Voice Spontaneous Speech.
-
-**How I work**
-
-Everything I publish states what was measured, on what data, with which model revision, and what it does not show. Corrections and issues are welcome.
-
-United Kingdom
+Issues and corrections are welcome.
