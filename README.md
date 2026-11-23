@@ -14,6 +14,6 @@ In the workshop, released here as each is ready:
 #### Work with me
 - **Mining finance and due diligence**: independent fatal-flaw reviews for investors and lenders, via [MinEx Associates](https://minex.org) · haresn@minex.org
 - **AI operations for industrial firms**: fractional, retainer-based · hares.noori777@gmail.com
-- **LinkedIn**: [linkedin.com/in/customurl-883836](https://www.linkedin.com/in/customurl-883836/)
+- **LinkedIn**: [linkedin.com/in/haresnoori](https://www.linkedin.com/in/haresnoori)
 
 Trained at Camborne School of Mines, TU Delft, Aalto and RWTH Aachen.
